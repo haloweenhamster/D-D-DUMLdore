@@ -247,7 +247,17 @@ namespace cs2000
             }
             else
             {
-                MessageBox.Show("app not found");
+                using (var dlDUML = new WebClient())
+                {
+                    dlDUML.DownloadFile("https://github.com/jezzab/DUMLdore/archive/master.zip", "DUMLdore.zip");
+                }
+                string path = Directory.GetCurrentDirectory();
+                System.IO.Compression.ZipFile.ExtractToDirectory("DUMLdore.zip", path);
+
+                System.Threading.Thread.Sleep(1000);
+                File.Delete("DUMLdore.zip");
+                System.Diagnostics.Process.Start(DUML);
+                this.Close();
             }
         }
     }
