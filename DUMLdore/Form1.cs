@@ -782,7 +782,7 @@ namespace DUMLdore
 
         private void btnDDD_Click(object sender, EventArgs e)
         {
-            string DDD = "cs2000.exe";
+            string DDD = "Dank Drone Downloader.exe";
             if (File.Exists(DDD))
             {
                 System.Diagnostics.Process.Start(DDD);
@@ -790,7 +790,13 @@ namespace DUMLdore
             }
             else
             {
-                MessageBox.Show("app not found");
+                using (var dlDDD = new WebClient())
+                {
+                    dlDDD.DownloadFile("http://dankdronedownloader.co.uk/cs2000update/DankDroneDownloader.exe", "Dank Drone Downloader.exe");
+                }
+                System.Threading.Thread.Sleep(5000);
+                System.Diagnostics.Process.Start(DDD);
+                this.Close();
             }
         }
     }
