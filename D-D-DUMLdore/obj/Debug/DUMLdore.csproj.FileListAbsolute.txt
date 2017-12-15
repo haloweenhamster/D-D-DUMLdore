@@ -1,0 +1,4 @@
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.Form1.resources
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.Properties.Resources.resources
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.csproj.GenerateResource.Cache
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.csproj.CoreCompileInputs.cache

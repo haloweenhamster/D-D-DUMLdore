@@ -1,0 +1,26 @@
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.Form1.resources
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.Properties.Resources.resources
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.csproj.GenerateResource.Cache
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.csprojResolveAssemblyReference.cache
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\bin\Debug\DUMLdore.exe.config
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\bin\Debug\DUMLdore.exe
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\bin\Debug\DUMLdore.pdb
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.exe
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\obj\Debug\DUMLdore.pdb
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\bin\Debug\cs2000.exe
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\bin\Debug\cs2000.pdb
+C:\Users\kimbe\Downloads\DUMLdore-src-master\DUMLdore-src-master\DUMLdore\bin\Debug\cs2000.exe.config
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\bin\Debug\DUMLdore.exe.config
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\bin\Debug\DUMLdore.exe
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\bin\Debug\DUMLdore.pdb
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\bin\Debug\cs2000.exe
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\bin\Debug\cs2000.pdb
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\bin\Debug\cs2000.exe.config
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\obj\Debug\DUMLdore.csprojResolveAssemblyReference.cache
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\obj\Debug\DUMLdore.Form1.resources
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\obj\Debug\DUMLdore.Properties.Resources.resources
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\obj\Debug\DUMLdore.csproj.GenerateResource.Cache
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\obj\Debug\DUMLdore.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\obj\Debug\DUMLdore.exe
+C:\Users\kimbe\Downloads\DUMLdore-src-master\New folder\DUMLdore\obj\Debug\DUMLdore.pdb

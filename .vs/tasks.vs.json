@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Form1",
+      "appliesTo": "DUMLdore/Form1.cs",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-Form2",
+      "appliesTo": "DUMLdore/Form2.cs",
+      "type": "launch"
+    }
+  ]
+}
